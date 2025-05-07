@@ -1,1 +1,0 @@
-Helps User finds Places
